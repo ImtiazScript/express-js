@@ -35,8 +35,6 @@ npm run dev: Starts the server with nodemon for development (requires nodemon to
 Resources
 Express.js Official Website
 Node.js Official Website
-GitHub Repository
-Happy coding!
 
 This is a practicing repository to experiment features of express js.
 
