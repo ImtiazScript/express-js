@@ -35,11 +35,9 @@ This will start the server on http://localhost:3000.
 - npm run devStart: Starts the server with nodemon for development (requires nodemon to be installed).
 
 
-## Resources
-
- <a href="https://expressjs.com" target="_blank"> Express.js Official Website </a>
-
- <a href="https://nodejs.org/en" target="_blank"> Node.js Official Website </a>
+Resources
+- <a href="https://expressjs.com" target="_blank"> Express.js Official Website </a>
+- <a href="https://nodejs.org/en" target="_blank"> Node.js Official Website </a>
 
 
 This is a practicing repository to experiment features of express js.
