@@ -31,9 +31,8 @@ This will start the server on http://localhost:3000.
 
 
 ## Available Scripts
-npm start: Starts the Express.js server.
-
-npm run dev: Starts the server with nodemon for development (requires nodemon to be installed).
+- npm start: Starts the Express.js server.
+- npm run devStart: Starts the server with nodemon for development (requires nodemon to be installed).
 
 
 ## Resources
