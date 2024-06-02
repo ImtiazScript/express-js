@@ -3,8 +3,8 @@ This repository is designed for experimenting with and learning the features of 
 
 To get a local copy up and running, follow these simple steps.
 
-## Prerequisites
-Make sure you have Node.js and npm installed on your machine. You can download them from Node.js official website.
+Prerequisites
+- Make sure you have Node.js and npm installed on your machine. You can download them from Node.js official website.
 
 ## Installation
 Clone the repository:
@@ -29,18 +29,10 @@ npm run devStart
 ```
 This will start the server on http://localhost:3000.
 
-
-## Available Scripts
+Available Scripts
 - npm start: Starts the Express.js server.
 - npm run devStart: Starts the server with nodemon for development (requires nodemon to be installed).
-
 
 Resources
 - <a href="https://expressjs.com" target="_blank"> Express.js Official Website </a>
 - <a href="https://nodejs.org/en" target="_blank"> Node.js Official Website </a>
-
-
-This is a practicing repository to experiment features of express js.
-
-To learn more about express-js follow:
-https://expressjs.com/
